@@ -9,7 +9,7 @@ I decided to create a simple puzzle game using a random image which is divided i
 
 Here's the [Live Demo on Glitch](https://cuinjune-image-puzzle.glitch.me/).
 
-I used the [CSS Scroll Snap](https://drafts.csswg.org/css-scroll-snap/) feature based on [this documentation](https://developers.google.com/web/updates/2018/07/css-scroll-snap).
+For the interactivity, I used the [CSS Scroll Snap](https://drafts.csswg.org/css-scroll-snap/) feature based on [this documentation](https://developers.google.com/web/updates/2018/07/css-scroll-snap).
 
 Although it was pretty straightforward to use, I think there are some problems that need to be addressed. For example, the scrolling of one element stops as soon as the other element is being scrolled. I fixed this behavior by force snapping the scrolled elements whenever a new touch is detected but this is not ideal.
 
