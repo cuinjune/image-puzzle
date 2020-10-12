@@ -20,7 +20,7 @@ The random images used in the app are fetched from [Lorem Picsum](https://picsum
 2. Run the following commands in the Terminal
 ```
 git clone https://github.com/cuinjune/image-puzzle.git
-cd facemaker
+cd image-puzzle
 python -m http.server 8080
 ```
 3. Open your web browser and navigate to http://localhost:8080
