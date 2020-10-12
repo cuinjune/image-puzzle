@@ -13,6 +13,8 @@ For the interactivity, I used the [CSS Scroll Snap](https://drafts.csswg.org/css
 
 Although it was pretty straightforward to use, I think there are some problems that need to be addressed. For example, the scrolling of one element stops as soon as the other element is being scrolled. I fixed this behavior by force snapping the scrolled elements whenever a new touch is detected but this is not ideal.
 
+In terms of the user interface, instead of using icons and texts to instruct the user how to play, I used an animation in the beginning to show the user what the completed image looks like(for 2 seconds), and how its pieces are shuffled. I assume this sufficiently demonstrates how the game works in a quiet simple manner.
+
 The random images used in the app are fetched from [Lorem Picsum](https://picsum.photos/).
 
 ## Setup
