@@ -13,6 +13,13 @@ You can also use the following QR Code to visit the app link in your phone's bro
 
 <img src="qrcode.png" width="150"/>
 
+## How to play
+
+- In Desktop browser, you need to use horizontal mouse scrolling to move image pieces.
+- In Mobile browser, you need to swipe left or right to move image pieces.
+
+## Interface
+
 In terms of the user interface, instead of using icons and texts to instruct the user how to play, I used an animation in the beginning to show the user what the completed image looks like(for 2 seconds), and how its pieces are shuffled. I assume this will sufficiently demonstrate how the game works in a quite simple manner.
 
 For the interactivity, I used the [CSS Scroll Snap](https://drafts.csswg.org/css-scroll-snap/) feature based on [this documentation](https://developers.google.com/web/updates/2018/07/css-scroll-snap).
@@ -20,11 +27,6 @@ For the interactivity, I used the [CSS Scroll Snap](https://drafts.csswg.org/css
 Although it was pretty straightforward to use, I think there are some problems that need to be addressed. For example, the scrolling of one element stops as soon as the other element is being scrolled. I fixed this behavior by force snapping the scrolled elements whenever a new touch is detected but this is not ideal.
 
 The random images used in the app are fetched from [Lorem Picsum](https://picsum.photos/).
-
-## How to play
-
-- In Desktop browser, you need to use horizontal mouse scrolling to move image pieces.
-- In Mobile browser, you need to swipe left or right to move image pieces.
 
 ## Setup
 
