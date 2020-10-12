@@ -9,7 +9,7 @@ I decided to create a simple puzzle game using a random image which is divided i
 
 Here's the [Live Demo on Glitch](https://cuinjune-image-puzzle.glitch.me/).
 
-In terms of the user interface, instead of using icons and texts to instruct the user how to play, I used an animation in the beginning to show the user what the completed image looks like(for 2 seconds), and how its pieces are shuffled. I assume this sufficiently demonstrates how the game works in a quiet simple manner.
+In terms of the user interface, instead of using icons and texts to instruct the user how to play, I used an animation in the beginning to show the user what the completed image looks like(for 2 seconds), and how its pieces are shuffled. I assume this sufficiently demonstrates how the game works in a quite simple manner.
 
 For the interactivity, I used the [CSS Scroll Snap](https://drafts.csswg.org/css-scroll-snap/) feature based on [this documentation](https://developers.google.com/web/updates/2018/07/css-scroll-snap).
 
