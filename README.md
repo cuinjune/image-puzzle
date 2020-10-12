@@ -9,6 +9,7 @@ I decided to create a simple puzzle game using a random image which is divided i
 
 Here's the [Live Demo on Glitch](https://cuinjune-image-puzzle.glitch.me/).  
 You can also use the following QR Code to visit the app link in your phone's browser:
+
 <img src="qrcode.png" width="150"/>
 
 In terms of the user interface, instead of using icons and texts to instruct the user how to play, I used an animation in the beginning to show the user what the completed image looks like(for 2 seconds), and how its pieces are shuffled. I assume this will sufficiently demonstrate how the game works in a quite simple manner.
