@@ -21,6 +21,11 @@ Although it was pretty straightforward to use, I think there are some problems t
 
 The random images used in the app are fetched from [Lorem Picsum](https://picsum.photos/).
 
+## How to play
+
+- In Desktop browser, you need to use horizontal mouse scrolling to move image pieces.
+- In Mobile browser, you need to swipe left or right to move image pieces.
+
 ## Setup
 
 1. You need to have [Python](https://realpython.com/installing-python/) installed on your computer
