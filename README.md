@@ -1,5 +1,5 @@
 # Image Puzzle
-<img src="screenshot.jpg" width="250"/>
+<img src="screenshot.jpeg" width="250"/>
 
 ## Description
 
