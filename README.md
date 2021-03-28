@@ -2,7 +2,6 @@
 <img src="screenshot.jpeg" width="250"/>
 
 ## Description
-
 This project was an assignment for the "Hand Held: Creative Tools for Phones" course at ITP.  
 The assignment was to build a second prototype of an interface that allows the user to combine image layers in different ways and producing artworks.  
 
@@ -14,12 +13,10 @@ You can also use the following QR Code to visit the app link in your phone's bro
 <img src="qrcode.png" width="150"/>
 
 ## How to play
-
 - In Desktop browser, you need to use horizontal mouse scrolling to move image pieces.
 - In Mobile browser, you need to swipe left or right to move image pieces.
 
-## Interface
-
+## Process & Thoughts
 In terms of the user interface, instead of using icons and texts to instruct the user how to play, I used an animation in the beginning to show the user what the completed image looks like(for 2 seconds), and how its pieces are shuffled. I assume this will sufficiently demonstrate how the game works in a quite simple manner.
 
 For the interactivity, I used the [CSS Scroll Snap](https://drafts.csswg.org/css-scroll-snap/) feature based on [this documentation](https://developers.google.com/web/updates/2018/07/css-scroll-snap).
@@ -29,7 +26,6 @@ Although it was pretty straightforward to use, I think there are some problems t
 The random images used in the app are fetched from [Lorem Picsum](https://picsum.photos/).
 
 ## Setup
-
 1. You need to have [Python](https://realpython.com/installing-python/) installed on your computer
 2. Run the following commands in the Terminal
 ```
