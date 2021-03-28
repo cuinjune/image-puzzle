@@ -6,9 +6,11 @@
 This project was an assignment for the "Hand Held: Creative Tools for Phones" course at ITP.  
 The assignment was to build a second prototype of an interface that allows the user to combine image layers in different ways and producing artworks.  
 
-I decided to create a simple puzzle game using a random image which is divided into five pieces, and shuffled randomly. Here's the [Live Demo on Glitch](https://cuinjune-image-puzzle.glitch.me/).
+I decided to create a simple puzzle game using a random image which is divided into five pieces, and shuffled randomly.  
+Here's the [Live Demo on Glitch](https://cuinjune-image-puzzle.glitch.me/).
 
 You can also use the following QR Code to visit the app link in your phone's browser:
+
 <img src="qrcode.png" width="150"/>
 
 ## How to play
